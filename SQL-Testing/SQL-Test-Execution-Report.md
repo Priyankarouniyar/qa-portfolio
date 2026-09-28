@@ -1,46 +1,27 @@
-# SQL Test Execution Report
-
-## Project
-
-SQL Database Testing
-
-## Objective
-
-To execute SQL test cases and verify the accuracy, integrity, and correctness of data stored in the database.
-
-## Test Environment
-
-| Item          | Details                      |
-| ------------- | ---------------------------- |
-| Database      | MySQL                        |
-| Database Tool | MySQL Workbench / phpMyAdmin |
-| Testing Type  | Database Testing             |
-| Tester        | Priyanka Rouniyar            |
-
 ## Test Execution Summary
 
-| Test Case ID | Test Scenario          | Status       |
-| ------------ | ---------------------- | ------------ |
-| SQL-TC-001   | Verify user record     | Not Executed |
-| SQL-TC-002   | Verify user data       | Not Executed |
-| SQL-TC-003   | Verify updated data    | Not Executed |
-| SQL-TC-004   | Verify deleted record  | Not Executed |
-| SQL-TC-005   | Check duplicate emails | Not Executed |
+| Test Case ID | Test Scenario              | Status |
+| ------------ | -------------------------- | ------ |
+| SQL-TC-001   | Verify user records        | PASS   |
+| SQL-TC-002   | Verify specific user data  | PASS   |
+| SQL-TC-003   | Verify updated user data   | PASS   |
+| SQL-TC-004   | Verify deleted user record | PASS   |
+| SQL-TC-005   | Check duplicate emails     | PASS   |
 
-## Summary
+## Execution Summary
 
 **Total Test Cases:** 5
-**Executed:** 0
-**Passed:** 0
+**Executed:** 5
+**Passed:** 5
 **Failed:** 0
-**Not Executed:** 5
+**Not Executed:** 0
 
-## Current Status
+## Overall Result
 
-**In Progress**
+**PASS**
 
-The test cases and SQL queries have been documented. Actual execution will be performed against a MySQL database, and the results will be updated after execution.
+All five SQL test cases were executed successfully using MySQL/phpMyAdmin. The tests covered data retrieval, specific record validation, data update verification, deletion verification, and duplicate data detection.
 
-## Key Learning
+## QA Observation
 
-This project demonstrates how SQL can be used by QA testers to verify application data, validate database records, check updates and deletions, and identify duplicate data.
+During duplicate email testing, the database allowed multiple records with the same email address. This behavior was intentionally created for testing the duplicate detection query. In a real application, whether duplicate emails are allowed should be verified against the application's requirements.
