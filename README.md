@@ -1,113 +1,155 @@
 # QA Testing Portfolio – Priyanka Rouniyar
 
-## About Me
+## 👩‍💻 About Me
 
-I am a BIM student and aspiring **Software QA Engineer** with practical experience in manual testing and API testing.
+I am a BIM student and aspiring Software QA Engineer with hands-on experience in Manual Testing, API Testing, and SQL Database Testing.
 
-I am developing my skills in test case design, functional testing, defect reporting, API testing, and test documentation through hands-on projects and QA internship experience.
+I enjoy finding defects, validating application behavior, and documenting testing results using practical QA techniques.
 
-## QA Skills
-
-* Manual Testing
-* Functional Testing
-* Positive & Negative Testing
-* Regression Testing
-* Test Case Design
-* Test Scenario Design
-* Bug Reporting
-* Severity & Priority
-* Boundary Value Analysis
-* API Testing
-* Postman
-* Basic SQL
-* SDLC & STLC
-* Agile / Scrum Basics
-
-## Tools
-
-* Postman
-* GitHub
-* Microsoft Excel / Google Sheets
-* Web Browsers
-* MySQL
-
-## Portfolio Projects
-
-### 1. API Testing – JSONPlaceholder
-
-A practical API testing project created using Postman.
-
-**Covered:**
-
-* GET and POST API testing
-* Positive and negative testing
-* Status code validation
-* Response body validation
-* Environment variables
-* Automated assertions
-* Test cases
-* Bug/observation reporting
-* Test execution documentation
-
-📁 [View API Testing Project](./API-Testing)
-
-### 2. Manual Testing
-
-A manual testing project demonstrating the complete testing documentation process.
-
-**Covered:**
-
-* Test scenarios
-* Test cases
-* Functional testing
-* Positive and negative testing
-* Bug reporting
-* Test execution
-* Boundary Value Analysis
-* QA internship experience
-
-📁 [View Manual Testing Project](./Manual-Testing)
-
-## QA Internship
-
-During my QA internship, I gained practical experience in:
-
-* Manual functional testing
-* Test case creation and execution
-* Login and registration testing
-* Input validation
-* Boundary Value Analysis
-* Bug identification and reporting
-* Severity and priority assignment
-* Regression testing
-
-## Projects
-
-### MediBuddy – Medicine Reminder System
-
-A web-based medicine reminder system developed using:
-
-* PHP
-* MySQL
-* HTML
-* CSS
-* JavaScript
-
-The project provided practical experience in web application development, database handling, form validation, and understanding application functionality from a testing perspective.
-
-## Currently Learning
-
-* Advanced API Testing
-* Postman
-* SQL for QA
-* Test Automation
-* Selenium
-* Software Testing Best Practices
-
-## Contact
-
-**GitHub:** [Priyanka Rouniyar](https://github.com/Priyankarouniyar)
+I am currently building my skills in software testing and preparing for a career in Quality Assurance.
 
 ---
 
-*This portfolio is continuously updated as I learn and complete new QA projects.*
+## 🧪 QA Skills
+
+- Manual Testing
+- Functional Testing
+- Positive & Negative Testing
+- Test Scenario & Test Case Design
+- Bug Reporting
+- Severity & Priority
+- Regression Testing
+- Boundary Value Analysis (BVA)
+- API Testing
+- Database Testing
+- SQL
+- Postman
+- SDLC & STLC
+- Agile / Scrum
+
+---
+
+## 🛠️ Tools & Technologies
+
+- Postman
+- MySQL / phpMyAdmin
+- GitHub
+- Microsoft Excel / Google Sheets
+- Web Browsers
+- JavaScript for API Test Assertions
+
+---
+
+## 📂 QA Portfolio Projects
+
+### 1. Manual Testing
+
+Practical manual testing project covering:
+
+- Test scenario creation
+- Test case design
+- Functional testing
+- Positive and negative testing
+- Bug reporting
+- Severity and priority
+- Boundary Value Analysis
+- Test execution and documentation
+
+📁 **Folder:** `Manual-Testing`
+
+---
+
+### 2. API Testing – JSONPlaceholder
+
+API testing project using Postman and JSONPlaceholder.
+
+Covered:
+
+- GET and POST requests
+- Positive and negative testing
+- HTTP status code validation
+- Response body validation
+- Environment variables
+- Automated JavaScript assertions
+- API test cases and execution reports
+
+📁 **Folder:** `API-Testing`
+
+---
+
+### 3. SQL / Database Testing
+
+Database testing project using MySQL and phpMyAdmin.
+
+Covered:
+
+- SELECT queries
+- INSERT, UPDATE and DELETE
+- WHERE conditions
+- Data validation
+- Record verification
+- Duplicate data detection
+- Database test cases
+- SQL test execution
+
+📁 **Folder:** `SQL-Testing`
+
+---
+
+## 💼 QA Internship Experience
+
+During my QA internship, I gained practical experience with:
+
+- Manual functional testing
+- Login and registration testing
+- Test case and test scenario creation
+- Input validation
+- Positive and negative testing
+- Boundary Value Analysis
+- Bug identification and reporting
+- Severity and priority classification
+- Regression testing
+- Basic API testing
+
+---
+
+## 💻 Academic Project – MediBuddy
+
+**MediBuddy – Medicine Reminder System**
+
+A web-based medicine reminder system developed using:
+
+- PHP
+- MySQL
+- HTML
+- CSS
+- JavaScript
+
+The project provided practical experience with web application functionality, database operations, forms, and validation.
+
+---
+
+## 📚 Currently Learning
+
+- Advanced API Testing
+- SQL for QA
+- Selenium
+- Test Automation
+- QA Best Practices
+
+---
+
+## 🎯 Career Goal
+
+To build a career as a Software QA Engineer by continuously improving my testing, analytical, and automation skills through practical projects and real-world experience.
+
+---
+
+## 📫 Portfolio
+
+**GitHub:**  
+`https://github.com/Priyankarouniyar/qa-portfolio`
+
+---
+
+⭐ This portfolio contains practical examples of my learning and hands-on QA testing work.
