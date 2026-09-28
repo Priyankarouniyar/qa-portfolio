@@ -55,7 +55,7 @@ Practical manual testing project covering:
 - Boundary Value Analysis
 - Test execution and documentation
 
-📁 **Folder:** `Manual-Testing`
+📁 [View Manual Testing Project](./Manual-Testing)
 
 ---
 
@@ -71,9 +71,9 @@ Covered:
 - Response body validation
 - Environment variables
 - Automated JavaScript assertions
-- API test cases and execution reports
+- API test cases and execution report
 
-📁 **Folder:** `API-Testing`
+📁 [View API Testing Project](./API-Testing)
 
 ---
 
@@ -92,7 +92,7 @@ Covered:
 - Database test cases
 - SQL test execution
 
-📁 **Folder:** `SQL-Testing`
+📁 [View SQL Testing Project](./SQL-Testing)
 
 ---
 
